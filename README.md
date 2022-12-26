@@ -1,10 +1,10 @@
 # Techincal University of Moldova
 ## Course: Cryptography and Security
-## Laboratory Work
+## Parsing Audit Files
 ### Author: Bucila Dinara, Gherman Artiom FAF-193
 
 ### Description:
-  In this laboratory works we have done:
+  In this project we have done:
 - We have imported, parsed and saved an `audit` file
 - All parsed information is stored in a `JSON` file
 - Parsed information is shown by a table
